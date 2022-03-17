@@ -1,0 +1,215 @@
+* {padding: 0;
+    margin: 0;
+
+
+
+}
+
+.h1-header {
+ padding: 10px;
+ color: aliceblue;
+ font-weight: 500;
+ font-size: 30px;
+
+
+}
+.header{
+top:0; left:0;
+ position: sticky;
+display: flex;
+justify-content: space-between;
+width: 100%;
+height: 50px;
+background:  #212529;
+align-items: center;
+position: sticky;
+font-family: cursive;
+}
+.searsh-spot {
+display: flex;
+
+padding: 25px;
+
+
+}
+.buttuon-header {
+
+margin: 30px;
+
+}
+.input{ border-radius: 20px;
+
+ border-radius: 10px;
+ margin: 20px;
+height: 30px;
+font-family: cursive;
+width: 250px;
+}
+.button{
+
+    color: #198754;
+    border-color: #198754;
+    height: 40px;
+    width: 100px;
+    align-self: center;
+    background:  #212529;
+    font-family: cursive;
+    border-radius: 10px;
+
+
+}
+.button:hover{
+
+background-color: #198754;
+font-weight: 500;
+    line-height: 1.5;
+    color: #212529;
+ 
+
+}
+body {
+    background-image: url(https://www.automoblog.net/wp-content/uploads/2017/11/christmas-online-shopping-background-P8YWKZB.jpg);
+    font-family: cursive;
+background-size: 80%;
+}
+.container-div{
+display: flex;
+
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+    max-width: 1200px;
+    max-height: 1200px;
+
+
+
+}
+main {
+    background-color: #e7ddca;
+    margin: 150px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 8px 10px #494545;}
+
+
+
+
+
+
+
+
+
+
+
+/* div*/
+.div1{
+margin-left: 55px;
+
+width:1200px;
+height: 300px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin: 10px;
+border-bottom: 1px solid gray;
+}
+
+
+
+
+
+
+
+
+    img {
+border-radius: 15px;
+max-width: 250px;
+max-height: 250px;
+
+
+
+
+    }
+
+.plus-moins-child{
+width: 10px;
+height: 10px;
+
+
+
+}
+.input-2{
+width: 20px;
+height: 20px;
+}
+
+
+.total-price{
+width: 1130px;
+
+display: flex;
+justify-content: flex-end;
+align-items: center;
+
+}
+.p-total-price{
+
+padding-top:15px; 
+align-content: center;
+font-size: 23px;
+
+
+}
+.total-price,input {
+
+border: 0 ;
+background: #e7ddca;
+
+}
+.plus-minus-div {
+display: flex;
+justify-content: center;
+
+}
+
+footer{
+
+width: 100%;
+height: 80px;
+
+text-align: center;
+
+
+}
+.p-footer{ display: flex;
+  
+    justify-content: flex-start;
+
+
+
+}
+
+
+
+
+ button {
+
+    outline: none;
+    background: #e7ddca;
+    border: none;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
